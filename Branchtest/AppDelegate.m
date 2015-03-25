@@ -23,7 +23,6 @@
     // Override point for customization after application launch.
 
 //eerste commit
-
     //rudolf
 
     return YES;

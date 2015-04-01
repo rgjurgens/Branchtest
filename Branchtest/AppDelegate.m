@@ -16,10 +16,8 @@
 
 @implementation AppDelegate
 
-//chcica
 
 
-//locale master changes
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
@@ -27,13 +25,9 @@
 //eerste commit
     //rudolf
     //hier iets gewijzigd sdgasdf
-    //asdfasdf
 
-    //asdfasdf
-    //asdfasdf
+
     return YES;
-
-    //banaaan
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application {

@@ -21,8 +21,8 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-//asdf
-//eerste commitasdfsd
+
+//eerste commit
     //rudolf
     //hier iets gewijzigd
 
